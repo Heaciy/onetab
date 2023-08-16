@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+__pycache__/
+test/
+storage/upload_files/
+tabs.json
+settings.py
+alembic.ini
